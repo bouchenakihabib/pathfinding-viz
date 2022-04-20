@@ -390,7 +390,7 @@ export default class PathfindingVisualizer extends Component {
     const {grid, mouseIsPressed} = this.state;
     return (
       <div>
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark ">
+        <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark ">
           <a className="navbar-brand" href="/">
             <b>PathFinding Visualizer</b>
           </a>
