@@ -1,3 +1,14 @@
+# WEB Application for pathfinding visualization
+
+A small react-app for visualizing pathfinding algorithms.
+
+## Implemented Algorithms
+
+1. [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
+2. [Depth First Search](https://en.wikipedia.org/wiki/Depth-first_search)
+3. [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+4. [A* Search](https://en.wikipedia.org/wiki/A*_search_algorithm)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
